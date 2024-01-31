@@ -63,12 +63,6 @@ button:hover{
   border-radius: 15px 10px;
 }
 
-.icon-quotes{
-  margin-left: 380px;
-  color: grey;
-  font-size: 3.5rem;
-}
-
 p:nth-child(2){
   font-size: 1.3rem;
 }
@@ -112,9 +106,6 @@ p:nth-child(2){
       padding-bottom: 20px;
       padding-top: 40px;
     }
-    .icon-quotes{
-      visibility: hidden;
-    }
    
 }  
 
@@ -132,10 +123,7 @@ p:nth-child(2){
   h1::after{
     visibility: hidden;
   }
-
-  .icon-quotes{
-    visibility: hidden;
-  }
+  
   button{
     padding: 15px;
     font-size: 1.5rem;
